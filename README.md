@@ -9,4 +9,4 @@ This is the repository which contains the code to the app, that we have made dur
     <li>Finally Run the project inside android studio.</li>
   </ul>
   <hr>
-  <b>If you find any issues in setting up the project and running it, please dont hesitate to contact me shreevallabhas@gmail.com, submachinerox@gmail.com</b>
+  <b>If you find any issues in setting up the project and running it, please dont hesitate to contact us shreevallabhas@gmail.com, submachinerox@gmail.com</b>
