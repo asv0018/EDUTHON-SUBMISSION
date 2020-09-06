@@ -15,4 +15,4 @@ This is the repository which contains the code to the app, that we have made dur
 <br>
 <i>To know more about our project click on our devfolio submission link : <a href = "https://devfolio.co/submissions/debugme">click me</a></i>
 <br>
-<i>To watch our youtube video of the demo of our app : <a href = "https://devfolio.co/submissions/debugme">click me to redirect to youtube</a></i>
+<i>To watch our youtube video of the demo of our app : <a href = "https://youtu.be/h2cVIpRWnFY">click me to redirect to youtube</a></i>
