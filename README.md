@@ -11,4 +11,4 @@ This is the repository which contains the code to the app, that we have made dur
   <hr>
   <b>If you find any issues in setting up the project and running it, please dont hesitate to contact us shreevallabhas@gmail.com, submachinerox@gmail.com</b>
   <hr>
-<i><b>Rather than setting up the project, I suggest you to install the app and checkout our app.The final <a href="#">link</a> to our app will be released soon here in readme</b></i>
+<i><b>Rather than setting up the project, I suggest you to install the app and checkout our app.The <a href="#">final link</a> to our app will be released soon here in readme</b></i>
