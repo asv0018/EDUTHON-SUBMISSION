@@ -12,4 +12,7 @@ This is the repository which contains the code to the app, that we have made dur
   <b>If you find any issues in setting up the project and running it, please dont hesitate to contact us shreevallabhas@gmail.com, submachinerox@gmail.com</b>
   <hr>
 <i><b>Rather than setting up the project, I suggest you to install the app and checkout our app.The <a href="https://drive.google.com/file/d/1gNugwqYt2kHa4SCe9KAo2mRREtYbhT4g/view">final link</a> to our app will be released soon here in readme</b></i>
+<br>
 <i>To know more about our project click on our devfolio submission link : <a href = "https://devfolio.co/submissions/debugme">click me</a></i>
+<br>
+<i>To watch our youtube video of the demo of our app : <a href = "https://devfolio.co/submissions/debugme">click me to redirect to youtube</a></i>
